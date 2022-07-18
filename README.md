@@ -1,1 +1,1 @@
-# Random-Forest-SMOTE-model-for-Unbalanced-datasets
+# Random Forest SMOTE model for Unbalanced datasets
